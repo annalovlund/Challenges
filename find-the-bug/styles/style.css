@@ -1,0 +1,4 @@
+/* This file is in the wrong place.
+   index.html expects it at assets/style.css */
+body { font-family: sans-serif; max-width: 800px; margin: 0 auto; padding: 2rem; }
+h1 { font-size: 2rem; }
