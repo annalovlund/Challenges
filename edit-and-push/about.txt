@@ -2,5 +2,5 @@ Name: anna
 Course: Intro to Terminal
 Year: 2026
 
-Tell us a bit about yourself:I love git!
+Tell us a bit about yourself: i love git
 
