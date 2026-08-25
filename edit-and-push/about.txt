@@ -1,4 +1,4 @@
-Name:anna 
+Name: anna 
 Course: Intro to Terminal
 Year: 2026
 
